@@ -1,0 +1,270 @@
+
+Java Introduction :  
+==================
+
+C/C++:(1970's)
+---------------
+platform dependent( Operating System)          [window----window, linux-----linux, mac------mac]
+runs single application at a time.
+
+Python(1991)
+-----------
+
+platform dependent ---->platform independent(2005)
+
+Java(1995)
+-----------
+platform independent (write once run anywhere)         [windows----->window, linux, mac etc..]-OS(Operating System)
+runs multiple  application at a time.
+
+hold
+
+Java main features: 
+-------------------
+Simple programming language / High Level Programming Language 
+
+Easy to run and Debug(step by step verification)
+
+Freeware, open source (Source code is available in web, any organisation or individual can make use of it)
+
+Platform independent ---- Single code written is capable of running in all the operating system
+
+Multi threading----- We can able to run multiple application at a time---- parallel execution
+
+Portable (wind-----Linux)
+
+More Secure (Firewall)
+
+............1
+...................2
+.........................3
+
+Terms or Components
+=======
+JDK:
+-----
+Java Development kit   
+
+whenever i want to run or develop a program in java, jdk is essential
+1.0 to 1.1,1.12,1.13,1.14,1.15.1.19,1.20,1.21,1.22,1.23,1.24
+JDK=JRE+JVM
+1.7/1.8 ----- preferable version/Stable Version
+
+
+JRE:
+----
+Java Runtime Environment
+It contains predefined files and library  
+
+
+JVM: RAM
+----
+Java Virtual Machine (imaginary)
+It is used for memory allocation, execution, object creation.
+
+compiler ; or (); or { or }
+
+interpreter ( convert to machine lang ) 
+
+source code into bytecode 
+10+20---->123456--------->9876456------->30
+
+Tools: ( IDE-Integrated Development Environment) 
+------------------------------------------------   
+Notepad------time consumption will be high
+Eclipse------95%-----user-friendly free tool  (Oxygen 3a,Photon,Neon)  
+NetBeans
+
+
+Paid tool
+---------
+Jdeveloper
+Rational Application Developer-IBM
+
+
+
+OOPS:
+=======
+Object Oriented Programming Structure
+It is method of implementation in which program is organised as
+collection of class, method and object.
+
+Project ----> Package----->Class----> Method---> object
+
+class--- collection of method and variables
+
+method--- set of action to be performed(set of program statements)
+
+Object--- created at run time(runtime memory allocation)---example/instance of a class
+	- used to call method
+
+Polymorphism
+Abstraction
+Inheritance
+Encapsulation
+
+
+
+Two standard notation or coding standard:
+------------------------------------------------
+Pascal notation / initcap notation:
+
+Each word's first letter should be capital
+ex: Greens_Technology
+
+Followed in: project name,class name
+
+
+Camel notation:
+
+First word first letter should be small remaining words first letter should be capital
+ex: greensTechnologyLimited
+
+
+Followed in: object name, method name, variable name
+
+
+pascal               pascal  camel      camel
+Project--->package-->class-methods --->object
+
+
+
+org.prasanth
+
+Step 1:(Project creation)
+--------
+Create a java project(File----->New----->click java project------->Give project name(pascal notation)---click finish)
+
+Step2:(Package creation)
+-------
+Inside Project---To create package----->(right click src folder of ur project--->click new--->package--->
+then give package name--> finish
+
+everything must be in small letters.
+package name should start with org. or com.
+
+
+Step3:(Class creation)
+-----
+Inside your package --- to create class----> (right click your package--->click new----->click
+class---->Give class name(pascal notation)---- Finish
+
+
+Step4:(Method creation)
+------
+Inside a class----->Give method name(by following camel notation) and press control- space 
+
+System.out.println()-----------> sysout ctrl+space
+
+
+Step5:(Main method creation)----java prg execution will start from here
+------
+type main and press control + space
+
+
+Step6:(object creation)
+------
+Classname objname = new Classname();
+
+
+Step7: (Method call)
+------
+objname.methodname();
+
+
+
+
+
+software reqs:
+============
+java development kit 1.8
+Eclipse oxygen 3a
+
+Java Configuration and setup:
+-----------------------------------
+goto to google Jdk download
+Install jdk
+verify jdk----java -version
+Download eclipse as zip
+[Url : https://www.eclipse.org/downloads/packages/] Oxygen 3A
+extract and launch workspace
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

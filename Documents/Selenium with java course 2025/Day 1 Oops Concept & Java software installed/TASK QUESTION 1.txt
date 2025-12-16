@@ -1,0 +1,29 @@
+TASK QUESTION 1:
+----------------------
+     Project   :EmployeeDetails
+     Package   :org.emp
+     Class     :Employee 
+     Methods   :empId(),empName(),empDob(),empPhone(),empEmail(),empAddress()
+
+Description:
+Create an object for employee class and call above methods also follow the all coding standards.
+
+QUESTION 2: 
+-------------
+     Project   :GreensAddress
+     Package   :org.add
+     Class     :GreensTech
+     Methods   :greensOmr(),greensAdayar(),greensTambaram(),greensVelacherry(),greensAnnaNagar()
+
+Description:
+Create an object for GreensTech class and call above methods also follow the all coding standards.
+
+QUESTION 3:
+------------
+   Project     :CompanyDetails
+   Package     :org.company
+   Class       :CompanyInfo
+   Methods     :companyName(),companyId(),companyAddress()
+
+Description:
+Create an object for CompanyDetails class and call above methods also follow the all coding standards.
